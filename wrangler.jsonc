@@ -1,0 +1,8 @@
+{
+  "name": "personal-blog",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist/Personal-Blog/browser",
+    "not_found_handling": "single-page-application"
+  }
+}
